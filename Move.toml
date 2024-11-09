@@ -6,5 +6,5 @@ version = '1.0.0'
 AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "testnet" }
 
 [addresses]
-metaschool = "<Enter-your-wallet-address-here>"
+metaschool = "0xe505b4d77a4d8f8c59295cf62f71fe4596949f49f99aff6c8345fcfa0025fbb3"
 std = "0x1"
